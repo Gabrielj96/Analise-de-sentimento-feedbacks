@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8"/>
+    <link rel="stylesheet" type="text/css" href="index.css">
+    <title>Análise de Sentimento</title>
+</head>
+<body style="background-color: #f45c24">
+<!-- Conteúdo -->
+<div id="formulario" style="background-color: white">
+  <h1 class="titulo1">Análise de Sentimento<h1>
+    <p class="p1">Você tem algum feedback sobre a palestra online dessa semana?</p>
+    <p class="p2">Pode ser um elogio ou crítica para o palestrante em si ou para as ferramentas utilizadas.</p>
+
+    <form action="/" method="post">
+      <input class="caixa" type="text" name="name"> <br/>
+      <input class="botao" type="submit" value="Prever Sentimento">
+    </form>
+</div>
+
+<div id="resultado" style="background-color: white">
+  <h1>Resultado</h1>
+  <p>O seu feedback é: {{ variable }}</p>
+  <p>A probabilidade do seu feedback ser negativo é: {{ variable0 }}</p>
+  <p>A probabilidade do seu feedback ser positivo é: {{ variable1 }}</p>
+</div>
+<!-- Fim Conteúdo -->
+</body>
+</html>
