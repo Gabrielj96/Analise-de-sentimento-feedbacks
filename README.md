@@ -2,7 +2,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Gabrielj96/Analise-de-sentimento-feedbacks/">
-    <img src="Análise de Sentimento (Feebacks)/faces-sentiment.png" alt="Logo" width="80" height="80">
+    <img src="Análise de Sentimento (Feebacks)/faces-sentiment.png">
   </a>
 
   <h3 align="center">Análise de Sentimento (Feedback sobre Palestras)</h3>
