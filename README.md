@@ -14,4 +14,5 @@
 ## Observações sobre o projeto
 
 **OBS 1:** O modelo foi treinado com uma amostra de apenas 368 comentários<br />
-**OBS 2:** O modelo tem um viés de feedbacks para palestras do Instituto CEO do Futuro e comentários Negativos são aqueles que tem alguma crítica construtiva
+**OBS 2:** O modelo tem um viés de feedbacks para palestras do Instituto CEO do Futuro e comentários Negativos são aqueles que tem alguma crítica construtiva<br />
+**OBS 3:** Não deixei disponível a base de dados por se tratar de um projeto privado e algumas colunas do Dataframe tive que ocultar<br />
