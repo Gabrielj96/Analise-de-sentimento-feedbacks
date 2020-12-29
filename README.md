@@ -13,9 +13,9 @@
 <!-- ABOUT THE PROJECT -->
 ## Observações sobre o projeto
 
-**OBS 1:** O modelo foi treinado com uma amostra de apenas 368 comentários
+**OBS 1:** O modelo foi treinado com uma amostra de apenas 368 comentários<br />
 **OBS 2:** O modelo tem um viés de feedbacks para palestras do Instituto CEO do Futuro e comentários Negativos são aqueles que tem alguma crítica construtiva
 
-<video width="320" height="240" controls>
+<video>
   <source src="Análise de Sentimento (Feebacks)/Teste app analise de sentimento.mp4" type="video/mp4">
 </video>
